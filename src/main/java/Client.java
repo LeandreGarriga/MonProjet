@@ -11,4 +11,5 @@
 public class Client {
     // Voici la classe CLient de notre projet
     // Ajout d'un commentaire
+    // J'ai ajouté un autre commentaire. Agathe
 }
